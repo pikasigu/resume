@@ -1,0 +1,6 @@
+#Jekyll config
+name: Pikasigu Resume
+description: pikasigu's Resume
+url: "https://pikasigu.github.io"
+markdown: kramdown
+highlighter: rouge
